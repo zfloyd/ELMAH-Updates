@@ -1,0 +1,5 @@
+C:\Work\ELMAH\bin\net-2.0\Debug\Elmah.dll
+C:\Work\ELMAH\bin\net-2.0\Debug\Elmah.pdb
+C:\Work\ELMAH\bin\net-2.0\Debug\Elmah.xml
+C:\Work\ELMAH\src\Solutions\2010\obj\Debug\Elmah.dll
+C:\Work\ELMAH\src\Solutions\2010\obj\Debug\Elmah.pdb
